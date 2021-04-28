@@ -26,3 +26,4 @@ lista7=[6, 1, 6, 9, 12, 15]
 koncowy_wynik=dodawanie(lista6, lista7, lista3)
 print(koncowy_wynik)
 lista3.clear()
+print("pull requesta")
